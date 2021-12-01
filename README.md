@@ -7,6 +7,6 @@
 - 💬 Ask me about Computers, Games, Consoles and Programming stuff, typical Tech-nerd.
 - 📫 Portfolio: [WorkWithAfridi](https://sites.google.com/view/workwithafridi)
 - 😄 Pronouns: Him/He
-- ⚡ Fun fact: I speak 4 languages!
+- ⚡ Fun fact: I speak English, Bangla, Hindhi, Canadian French!
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llKYOTOll)](https://github.com/llKYOTOll/github-readme-stats) -->
