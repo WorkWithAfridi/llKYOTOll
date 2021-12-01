@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Flutter project
-- 🌱 I’m currently learning Flutter and REST Api
-- 👯 I’m looking to collaborate on App development projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Computers
-- 📫 How to reach me: [Portfolio](https://sites.google.com/view/workwithafridi)
+- 🔭 I’m currently working on a Flutter Project - SCHOOL-360 Mobile port.
+- 🌱 I’m currently learning UI/UX designing.
+- 👯 I’m looking to collaborate on Open Source projects.
+- 🤔 I’m looking for good squad mates to play Battlefield2042 with!
+- 💬 Ask me about Computers, Games, Consoles and Programming stuff, typical Tech-nerd.
+- 📫 Portfolio: [WorkWithAfridi](https://sites.google.com/view/workwithafridi)
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: I speak 4 languages!
