@@ -8,5 +8,5 @@
 - 📫 Portfolio: [WorkWithAfridi](https://sites.google.com/view/workwithafridi)
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: I speak 4 languages!
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llKYOTOll)](https://github.com/llKYOTOll/github-readme-stats)
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llKYOTOll)](https://github.com/llKYOTOll/github-readme-stats) -->
