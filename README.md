@@ -26,9 +26,9 @@
 [<img align="left" alt="Java" width="26px" src="https://cdn-icons.flaticon.com/png/512/3664/premium/3664988.png?token=exp=1640163812~hmac=9638b09027fe39cd26c8f8c405d64aac" />][java]
 [<img align="left" alt="Dart" width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][dart]
 [<img align="left" alt="Kotlin" width="26px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />][kotlin]
-[<img align="left" alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919852.png" />][python]
-[<img align="left" alt="JS" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />][javascript]
 [<img align="left" alt="Firebase" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][firebase]
+[<img align="left" alt="JS" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />][javascript]
+[<img align="left" alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919852.png" />][python]
 [<img align="left" alt="C++" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919841.png" />][cplusplus]
 [<img align="left" alt="C#" width="26px" src="https://cdn-icons-png.flaticon.com/512/381/381704.png" />][csharp]
 <br />
