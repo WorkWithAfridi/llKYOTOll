@@ -18,8 +18,10 @@
 [<img align="left" alt="Kyoto | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
 <br />
 
+### Languages and Tools:
 
-
+[<img align="left" alt="Flutter" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fp-u.popcdn.net%2Fattachments%2Fimages%2F000%2F015%2F467%2Flarge%2Fflutter_logo.png%3F1552111313&f=1&nofb=1" />][flutter]
+<br />
 
 
 [website]: https://sites.google.com/view/workwithafridi
@@ -27,3 +29,6 @@
 [youtube]: https://www.youtube.com/c/kyotobytes
 [instagram]: https://www.instagram.com/llkyoto/
 [linkedin]: https://www.linkedin.com/in/khondakarafridi/
+
+
+[flutter]: https://flutter.dev/
