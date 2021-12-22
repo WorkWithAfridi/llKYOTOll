@@ -22,7 +22,7 @@
 
 [<img align="left" alt="Flutter" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fp-u.popcdn.net%2Fattachments%2Fimages%2F000%2F015%2F467%2Flarge%2Fflutter_logo.png%3F1552111313&f=1&nofb=1" />][flutter]
 [<img align="left" alt="Android Studio" width="26px" src="https://cdn-icons-png.flaticon.com/512/5969/5969010.png" />][androidstudio]
-[<img align="left" alt="VS Code" width="26px" src="https://duckduckgo.com/?q=VS+Code&iax=images&ia=images&iai=https%3A%2F%2Fcode.visualstudio.com%2Fassets%2Fimages%2Fcode-stable.png" />][vscode]
+[<img align="left" alt="VS Code" width="26px" src="https://code.visualstudio.com/assets/images/code-stable.png" />][vscode]
 [<img align="left" alt="Java" width="26px" src="![image](https://user-images.githubusercontent.com/62285418/147062659-929aa1e6-be9e-46c6-a17a-fba21e4740c5.png)" />][java]
 [<img align="left" alt="Dart" width="26px" src="https://duckduckgo.com/?q=dart+programming+language&iax=images&ia=images&iai=https%3A%2F%2Fimage.pngaaa.com%2F400%2F23400-middle.png" />][dart]
 [<img align="left" alt="Kotlin" width="26px" src="https://duckduckgo.com/?q=Kotlin+logo&iar=images&iax=images&ia=images&iai=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-512%2Fkotlin-2752140-2284957.png" />][kotlin]
