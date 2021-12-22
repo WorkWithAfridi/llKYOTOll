@@ -12,7 +12,7 @@
 ### Connect with me on:
 
 [<img align="left" alt="Kyoto | Portfolion" width="22px" src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" />][website]
-[<img align="left" alt="Kyoto | Facebook" width="22px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />][youtube]
+[<img align="left" alt="Kyoto | Facebook" width="22px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" />][facebook]
 [<img align="left" alt="Kyoto | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" />][youtube]
 [<img align="left" alt="Kyoto | Twitter" width="22px" src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1640162317~hmac=228189d2a5404aa0ee2ef7110a1f8ff8" />][twitter]
 [<img align="left" alt="Kyoto | LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1640162417~hmac=e6a01e917862e3a6b1aa84547c7f7341" />][linkedin]
