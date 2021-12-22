@@ -24,7 +24,7 @@
 [<img align="left" alt="Android Studio" width="26px" src="https://cdn-icons-png.flaticon.com/512/5969/5969010.png" />][androidstudio]
 [<img align="left" alt="VS Code" width="26px" src="https://code.visualstudio.com/assets/images/code-stable.png" />][vscode]
 [<img align="left" alt="Java" width="26px" src="https://cdn-icons.flaticon.com/png/512/3664/premium/3664988.png?token=exp=1640163812~hmac=9638b09027fe39cd26c8f8c405d64aac" />][java]
-[<img align="left" alt="Dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Dart_programming_language_logo.svg" />][dart]
+[<img align="left" alt="Dart" width="26px" src="https://seeklogo.com/images/D/dart-programming-language-logo-FF81164A13-seeklogo.com.png" />][dart]
 [<img align="left" alt="Kotlin" width="26px" src="https://duckduckgo.com/?q=Kotlin+logo&iar=images&iax=images&ia=images&iai=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-512%2Fkotlin-2752140-2284957.png" />][kotlin]
 [<img align="left" alt="JavaFX" width="26px" src="https://duckduckgo.com/?q=JavaFX+logo&iar=images&iax=images&ia=images&iai=https%3A%2F%2Fcdn.imgbin.com%2F8%2F23%2F3%2Fimgbin-javafx-scene-builder-drag-and-drop-gluon-wildfly-underwear-scenic-view-8suvAGUwZYHXbn86cBqs5vZSx.jpg" />][javafx]
 [<img align="left" alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919852.png" />][python]
