@@ -25,11 +25,10 @@
 [<img align="left" alt="VS Code" width="26px" src="https://code.visualstudio.com/assets/images/code-stable.png" />][vscode]
 [<img align="left" alt="Java" width="26px" src="https://cdn-icons.flaticon.com/png/512/3664/premium/3664988.png?token=exp=1640163812~hmac=9638b09027fe39cd26c8f8c405d64aac" />][java]
 [<img align="left" alt="Dart" width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][dart]
-[<img align="left" alt="Kotlin" width="26px" src="https://duckduckgo.com/?q=Kotlin+logo&iar=images&iax=images&ia=images&iai=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-512%2Fkotlin-2752140-2284957.png" />][kotlin]
-[<img align="left" alt="JavaFX" width="26px" src="https://duckduckgo.com/?q=JavaFX+logo&iar=images&iax=images&ia=images&iai=https%3A%2F%2Fcdn.imgbin.com%2F8%2F23%2F3%2Fimgbin-javafx-scene-builder-drag-and-drop-gluon-wildfly-underwear-scenic-view-8suvAGUwZYHXbn86cBqs5vZSx.jpg" />][javafx]
+[<img align="left" alt="Kotlin" width="26px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />][kotlin]
 [<img align="left" alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919852.png" />][python]
 [<img align="left" alt="JS" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />][javascript]
-[<img align="left" alt="Firebase" width="26px" src="https://duckduckgo.com/?q=Firebase+logo&iax=images&ia=images&iai=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F528264%2Fscreenshots%2F3140440%2Ffirebase_logo.png" />][firebase]
+[<img align="left" alt="Firebase" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][firebase]
 [<img align="left" alt="C++" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919841.png" />][cplusplus]
 [<img align="left" alt="C#" width="26px" src="https://cdn-icons-png.flaticon.com/512/381/381704.png" />][csharp]
 <br />
@@ -48,7 +47,6 @@
 [java]: https://www.oracle.com/java/
 [dart]: https://dart.dev/
 [kotlin]: https://kotlinlang.org/
-[javafx]: https://openjfx.io/
 [python]: https://www.python.org/
 [javascript]: https://www.javascript.com/
 [firebase]: https://firebase.google.com/
