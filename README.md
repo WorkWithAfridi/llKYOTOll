@@ -1,6 +1,6 @@
-### Hello World, I am Khondakar Afridi aka KYOTO. 👋
+### Hello World, I'm Khondakar Afridi - aka KYOTO. 👋
 
-- 🔭 I’m currently working on a Flutter Project - SCHOOL-360 Mobile port.
+- 🔭 I’m currently working as a Flutter Developer (INTERN).
 - 🌱 I’m currently learning UI/UX designing.
 - 👯 I’m looking to collaborate on Open Source projects.
 - 🤔 I’m looking for good squad mates to play Battlefield2042 with!
@@ -21,6 +21,17 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Flutter" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fp-u.popcdn.net%2Fattachments%2Fimages%2F000%2F015%2F467%2Flarge%2Fflutter_logo.png%3F1552111313&f=1&nofb=1" />][flutter]
+[<img align="left" alt="Android Studio" width="26px" src="https://cdn-icons-png.flaticon.com/512/5969/5969010.png" />][androidstudio]
+[<img align="left" alt="VS Code" width="26px" src="https://duckduckgo.com/?q=VS+Code&iax=images&ia=images&iai=https%3A%2F%2Fcode.visualstudio.com%2Fassets%2Fimages%2Fcode-stable.png" />][vscode]
+[<img align="left" alt="Java" width="26px" src="![image](https://user-images.githubusercontent.com/62285418/147062659-929aa1e6-be9e-46c6-a17a-fba21e4740c5.png)" />][java]
+[<img align="left" alt="Dart" width="26px" src="https://duckduckgo.com/?q=dart+programming+language&iax=images&ia=images&iai=https%3A%2F%2Fimage.pngaaa.com%2F400%2F23400-middle.png" />][dart]
+[<img align="left" alt="Kotlin" width="26px" src="https://duckduckgo.com/?q=Kotlin+logo&iar=images&iax=images&ia=images&iai=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-512%2Fkotlin-2752140-2284957.png" />][kotlin]
+[<img align="left" alt="JavaFX" width="26px" src="https://duckduckgo.com/?q=JavaFX+logo&iar=images&iax=images&ia=images&iai=https%3A%2F%2Fcdn.imgbin.com%2F8%2F23%2F3%2Fimgbin-javafx-scene-builder-drag-and-drop-gluon-wildfly-underwear-scenic-view-8suvAGUwZYHXbn86cBqs5vZSx.jpg" />][javafx]
+[<img align="left" alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919852.png" />][python]
+[<img align="left" alt="JS" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />][javascript]
+[<img align="left" alt="Firebase" width="26px" src="https://duckduckgo.com/?q=Firebase+logo&iax=images&ia=images&iai=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F528264%2Fscreenshots%2F3140440%2Ffirebase_logo.png" />][firebase]
+[<img align="left" alt="C++" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919841.png" />][cplusplus]
+[<img align="left" alt="C#" width="26px" src="https://cdn-icons-png.flaticon.com/512/381/381704.png" />][csharp]
 <br />
 
 
@@ -32,3 +43,14 @@
 
 
 [flutter]: https://flutter.dev/
+[androidstudio]: https://developer.android.com/
+[vscode]: https://code.visualstudio.com/
+[java]: https://www.oracle.com/java/
+[dart]: https://dart.dev/
+[kotlin]: https://kotlinlang.org/
+[javafx]: https://openjfx.io/
+[python]: https://www.python.org/
+[javascript]: https://www.javascript.com/
+[firebase]: https://firebase.google.com/
+[cplusplus]: https://en.wikipedia.org/wiki/C%2B%2B
+[csharp]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
