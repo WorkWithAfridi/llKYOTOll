@@ -24,7 +24,7 @@
 [<img align="left" alt="Flutter" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fp-u.popcdn.net%2Fattachments%2Fimages%2F000%2F015%2F467%2Flarge%2Fflutter_logo.png%3F1552111313&f=1&nofb=1" />][flutter]
 [<img align="left" alt="Android Studio" width="26px" src="https://cdn-icons-png.flaticon.com/512/5969/5969010.png" />][androidstudio]
 [<img align="left" alt="VS Code" width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />][vscode]
-[<img align="left" alt="Java" width="26px" src="https://cdn-icons.flaticon.com/png/512/3664/premium/3664988.png?token=exp=1640163812~hmac=9638b09027fe39cd26c8f8c405d64aac" />][java]
+[<img align="left" alt="Java" width="26px" src="https://cdn-icons.flaticon.com/png/512/5433/premium/5433712.png?token=exp=1641979105~hmac=f1132d2f1e6898b167d95ef061becd4d" />][java]
 [<img align="left" alt="Dart" width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />][dart]
 [<img align="left" alt="Kotlin" width="26px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />][kotlin]
 [<img align="left" alt="Firebase" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][firebase]
