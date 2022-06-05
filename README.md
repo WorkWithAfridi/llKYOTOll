@@ -2,12 +2,12 @@
 
 - 🔭 I’m currently working as a Flutter Developer.
 - 🌱 I’m currently learning UI/UX designing.
-- 👯 I’m looking to collaborate on Open Source projects.
-- 🤔 I’m also looking for good squad mates to play Battlefield2042 with!
+- 👯 I’m looking for a Flutter Developer Position.
+- 🤔 I’m also looking forward to collaborating on Open Source projects.
 - 💬 Ask me about Computers, Games, Consoles and Programming stuff, typical Tech-nerd.
 - 🔥 Youtube: [Kyoto](https://www.youtube.com/c/kyotoverse)
 - 📫 Portfolio: [WorkWithAfridi](https://sites.google.com/view/workwithafridi)
-- 🔥 Resume: [Resume - Khondakar Afridi](https://drive.google.com/file/d/1wTnPebSTmjta3FZIQtm_FrwTUPxk31HP/view?usp=sharing)
+- 🔥 Resume: [Resume - Khondakar Afridi](https://drive.google.com/file/d/1_mrPDPRPz-YKjlnmI6X8lZ6nmUhEgn0r/view?usp=sharing)
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: I speak English, Bangla, Hindhi, Canadian French!
 
