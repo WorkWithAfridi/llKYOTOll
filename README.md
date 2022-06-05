@@ -7,7 +7,7 @@
 - 💬 Ask me about Computers, Games, Consoles and Programming stuff, typical Tech-nerd.
 - 🔥 Youtube: [Kyoto](https://www.youtube.com/c/kyotoverse)
 - 📫 Portfolio: [WorkWithAfridi](https://sites.google.com/view/workwithafridi)
-- 🔥 Resume: [Resume - Khondakar Afridi](https://drive.google.com/file/d/1_mrPDPRPz-YKjlnmI6X8lZ6nmUhEgn0r/view?usp=sharing)
+- 🔥 Resume: [Resume - Khondakar Afridi](https://drive.google.com/file/d/144e9uN9cP3ZGyrjMLpTihrwq8mQd2ajD/view?usp=sharing)
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: I speak English, Bangla, Hindhi, Canadian French!
 
