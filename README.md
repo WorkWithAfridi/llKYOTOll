@@ -40,6 +40,10 @@ I'm a Full Stack Flutter Developer with hands-on experience in the full lifecycl
 [<img align="left" alt="C#" width="26px" src="https://cdn-icons-png.flaticon.com/512/381/381704.png" />][csharp]
 <br />
 
+## 📧 For Business Inquiries 
+
+✅  ► Khondakarafridi35@gmail.com
+
 [website]: https://sites.google.com/view/workwithafridi
 [twitter]: https://twitter.com/KyotoBytes
 [youtube]: https://www.youtube.com/c/kyotobytes
