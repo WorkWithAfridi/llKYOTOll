@@ -36,6 +36,11 @@
 [<img align="left" alt="C#" width="26px" src="https://cdn-icons-png.flaticon.com/512/381/381704.png" />][csharp]
 <br />
 
+### Flutter Tech Stack:
+State Management: GetX, Provider, Riverpod & BLoC
+Backend: Firebase & AppWrite
+UI Designing: Adobe XD, Figma & Mockitt
+
 
 [website]: https://sites.google.com/view/workwithafridi
 [twitter]: https://twitter.com/KyotoBytes
