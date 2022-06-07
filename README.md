@@ -37,9 +37,13 @@
 <br />
 
 ### Flutter Tech Stack:
-State Management: GetX, Provider, Riverpod & BLoC
-Backend: Firebase & AppWrite
-UI Designing: Adobe XD, Figma & Mockitt
+
+State Management -  GetX, Provider, Riverpod & BLoC
+Backend - Firebase & AppWrite
+UI Designing - Adobe XD, Figma & Mockitt
+
+
+
 
 
 [website]: https://sites.google.com/view/workwithafridi
