@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning UI/UX designing.
 - 👯 I’m looking for a Flutter Developer Position.
 - 🤔 I’m also looking forward to collaborating on Open Source projects.
-- 💬 Ask me about Computers, Games, Consoles and Programming stuff, typical Tech-nerd.
+- 💬 Ask me about Computers, Games, Consoles and Programming stuff aka typical Tech-nerd.
 - 🔥 Youtube: [Kyoto](https://www.youtube.com/c/kyotoverse)
 - 📫 Portfolio: [WorkWithAfridi](https://sites.google.com/view/workwithafridi)
 - 🔥 Resume: [Resume - Khondakar Afridi](https://drive.google.com/file/d/1UwszPsActhiXVgrsW1oSKCeBy08uONje/view?usp=sharing)
