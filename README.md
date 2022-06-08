@@ -24,6 +24,7 @@
 [<img align="left" alt="Android Studio" width="26px" src="https://cdn-icons-png.flaticon.com/512/5969/5969010.png" />][androidstudio]
 [<img align="left" alt="VS Code" width="26px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" />][vscode]
 [<img align="left" alt="Figma" width="26px" src="https://static.viget.com/_284x284_crop_center-center_none/icon-figma-2-01.png?mtime=20170814151542" />][Figma]
+[<img align="left" alt="AppWrite" width="26px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--47uK5RB_--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/2225/eb541cf9-84f4-4101-987c-c219cd4b34fc.png" />][AppWrite]
 [<img align="left" alt="Java" width="26px" src="https://mpng.subpng.com/20180404/ebw/kisspng-java-programming-computer-programming-programming-coffee-jar-5ac598db779939.2171835915228991634899.jpg" />][java]
 [<img align="left" alt="Kotlin" width="26px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />][kotlin]
 [<img align="left" alt="Firebase" width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][firebase]
@@ -64,3 +65,5 @@ I'm a Full Stack Flutter Developer with hands-on experience in the full lifecycl
 [firebase]: https://firebase.google.com/
 [cplusplus]: https://en.wikipedia.org/wiki/C%2B%2B
 [csharp]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
+[Figma]: https://www.figma.com/files/recent?fuid=1015973143713454522
+[AppWrite]: https://appwrite.io/
