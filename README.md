@@ -16,6 +16,7 @@
 - State Management: GetX, Provider, Riverpod & BLoC.
 - Backend: Firebase & AppWrite.
 - Designing: Adobe XD, Figma & Mockitt.
+- Testing: Unit Testing.
 
 ## Languages and Tools I use:
 
