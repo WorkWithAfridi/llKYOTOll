@@ -1,8 +1,7 @@
 ## Hello World, I'm Khondakar Afridi - aka KYOTO. 👋
 
-- 🔭 I’m currently working as a Freelance Flutter Developer.
+- 🔭 I’m currently working as Full Stack Flutter Developer.
 - 🌱 I’m currently learning React Native.
-- 👯 I’m looking for a Parmanent Flutter Developer Position.
 - 🤔 I’m also looking forward to collaborating on Open Source projects.
 - 💬 Ask me about Computers, Crypto, Blockchain, Games, Consoles and/or Programming stuff, aka typical Tech-nerd.
 - 🔥 Youtube: [Kyoto](https://www.youtube.com/KyotoCodes)
