@@ -1,6 +1,6 @@
 ## Hello World, I'm Khondakar Afridi - aka KYOTO. 👋
 
-- 🔭 I’m currently working as Software Engineer.
+- 🔭 I’m currently working as a Software Engineer at Tikweb.
 - 🌱 I’m currently learning React Native.
 - 🤔 I’m also looking forward to collaborating on Open Source projects.
 - 💬 Ask me about Computers, Crypto, Blockchain, Games, Consoles and/or Programming stuff, aka typical Tech-nerd.
