@@ -45,6 +45,7 @@ I'm a Full Stack Flutter Developer with hands-on experience in the full lifecycl
 ## 📧 For Business Inquiries 
 
 ✅  ► Khondakarafridi35@gmail.com
+🔥  ► Bangladeshi&Pround
 
 [website]: https://sites.google.com/view/workwithafridi
 [twitter]: https://twitter.com/KyotoBytes
