@@ -9,6 +9,7 @@
 - 🔥 CV/ Resume: [CV/ Resume - Khondakar Afridi](https://drive.google.com/file/d/1pML1yFeEqtkNZFk1xjI4K_E1ByNAaGVA/view)
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: I speak English, Bangla, Hindhi, Canadian French!
+- 🔥 Bangladeshi&Pround
  
 ## Flutter Stack:
 
@@ -45,7 +46,6 @@ I'm a Full Stack Flutter Developer with hands-on experience in the full lifecycl
 ## 📧 For Business Inquiries 
 
 ✅  ► Khondakarafridi35@gmail.com
-🔥  ► Bangladeshi&Pround
 
 [website]: https://sites.google.com/view/workwithafridi
 [twitter]: https://twitter.com/KyotoBytes
